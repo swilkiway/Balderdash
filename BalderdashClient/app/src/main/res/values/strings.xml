@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Balderdash</string>
+    <string name="welcome">Welcome to Balderdash!</string>
+    <string name="enter_username">Fill in your info to play</string>
+    <string name="username">Enter a username</string>
+    <string name="submit">Submit</string>
+    <string name="everyone">Everyone\'s In</string>
+    <string name="server_host">Enter server host</string>
+    <string name="submit_q">Please enter a question (you must know the correct answer)</string>
+    <string name="hint_q">Your question goes here</string>
+    <string name="warning_q">Please note that your question will be shown exactly as you type it</string>
+    <string name="display_q">Question</string>
+    <string name="display_a">Answers</string>
+    <string name="display_p">Points</string>
+    <string name="submit_a">Please type in your answer</string>
+    <string name="hint_a">Your answer here</string>
+    <string name="warning_a">Please note that your answer will be shown exactly as you type it</string>
+    <string name="choose">Choose</string>
+    <string name="choose_a">Please press the button by the answer you want</string>
+    <string name="next_q">Next Question</string>
+</resources>
